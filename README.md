@@ -1,4 +1,5 @@
-## Aptos Build Mint Page Template
+## Aptos  Mint Page "Eluminati"
+https://0xspain.github.io/sp-apt-eluminati-mint/
 
 This template provides a beautiful pre-made UI for an NFT minting page so that users can mint NFTs from a collection created in Aptos Build.
 
